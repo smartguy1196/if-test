@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if [ "blah"="hello" ]; then
   echo "blah"
 fi
