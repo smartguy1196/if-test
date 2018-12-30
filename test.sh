@@ -1,9 +1,7 @@
-if [ "blah"="hello" ]
-then
+if [ "blah"="hello" ]; then
   echo "blah"
 fi
 
-if [ "hello"="hello" ]
-then
+if [ "hello"="hello" ]; then
   echo "hello"
 fi
